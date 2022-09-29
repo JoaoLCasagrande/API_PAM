@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/semi */
 /* eslint-disable @typescript-eslint/dot-notation */
 import { Component } from '@angular/core';
 import { ApiService } from '../services/api.service';
