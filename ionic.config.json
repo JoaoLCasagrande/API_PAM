@@ -1,0 +1,7 @@
+{
+  "name": "API_PAM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
